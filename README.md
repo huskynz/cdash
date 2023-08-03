@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"><img src="https://media.discordapp.net/attachments/984837636457918465/1000014634012647464/giphy.gif" alt="Gray shape shifter" height="120"/></a></p>
-<h1 align="center">NorthClient</h1>
+<h1 align="center">HuskyNZ's Fixed NorthClient</h1>
 <p align="center">The world's easiest, most powerful Pterodactyl Client Panel.</p>
 
 <p align="center">
